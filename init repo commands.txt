@@ -14,4 +14,4 @@ git push -u origin master
 git remote add origin https://github.com/dholovin/CleanArch.git
 git push -u origin master
 
-test
+Commit tot test gitub Actions: restore -> build -> test
